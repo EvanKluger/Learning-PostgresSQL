@@ -1,0 +1,1 @@
+UPDATE customer SET last_name='Foo' WHERE customer_id=106;

@@ -1,0 +1,2 @@
+CREATE DATABASE mystore;
+GRANT ALL PRIVILEGES ON DATABASE mystore TO postgres;
